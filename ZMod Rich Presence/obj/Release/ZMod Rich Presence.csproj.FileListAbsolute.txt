@@ -1,0 +1,18 @@
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\DiscordRPC.dll
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\Newtonsoft.Json.dll
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\DiscordRPC.pdb
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\DiscordRPC.xml
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\Newtonsoft.Json.xml
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZMod Rich Presence.csproj.AssemblyReference.cache
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZMod Rich Presence.csproj.SuggestedBindingRedirects.cache
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZMod Rich Presence.csproj.CoreCompileInputs.cache
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZMod Rich Presence.csproj.CopyComplete
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\ZModeler3 Rich Presence.exe.config
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\ZModeler3 Rich Presence.exe.manifest
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\ZModeler3 Rich Presence.application
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\ZModeler3 Rich Presence.exe
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\bin\Release\ZModeler3 Rich Presence.pdb
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZModeler3 Rich Presence.exe.manifest
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZModeler3 Rich Presence.application
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZModeler3 Rich Presence.exe
+C:\Users\capra\source\repos\ZMod Rich Presence\ZMod Rich Presence\obj\Release\ZModeler3 Rich Presence.pdb
